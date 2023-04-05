@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 this is a new file
 this is a new file for a branch
 
 this is a new edit from kritishbranch
+=======
+this is a new file 
+this is a new file for a branch
+
+
+>>>>>>> main
 this is a another new file added from main branch
