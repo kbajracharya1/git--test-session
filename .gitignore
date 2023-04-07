@@ -1,4 +1,4 @@
 .idea
 .env
 target
-database-credentials.txt
+/database/database-credentials.txt
