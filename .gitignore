@@ -1,5 +1,5 @@
 .idea
 .env
 target
-database/database-credentials.txt
+database
 
